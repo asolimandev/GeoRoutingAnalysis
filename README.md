@@ -38,7 +38,7 @@ The following datasets are included in this repository:
 - **GeoLite2-City-Locations-en.csv**: City locations data in English from the GeoLite2 database.
 - **GeoLite2-City.mmdb**: MaxMind's GeoLite2 City binary database.
 - **latency_data.json**: JSON file containing latency data.
-- **latency_data_lite.json**: Lightweight version of latency data in JSON format.
+- **latency_data_lite.json**: Output of the statistics from the latency dictionary Python code using GeoLite2.
 - **latency_statistics.txt**: Text file summarizing latency statistics.
 - **latency_statistics_lite.txt**: Lightweight version of latency statistics in text format.
 - **traceroute-2024-10-01T0000**: Traceroute data collected on October 1, 2024.
